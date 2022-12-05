@@ -9,13 +9,14 @@ udover det, er det en god øvelse da LCD 1602 kræver en hel del ledsningsopsæt
 
 ### Til projektet er der benyttet følgende:
 
-* 16 stk. han/han kabler.
-* 6 stk. 220 ohm modstande. 
-* 2 røde pærer
-* 2 gule pærer
-* 2 røde pærer
+* 19 stk. han/han kabler.
+* 1 DHT 11 (3 pins) 
+* 1 10k potentiometer
+* 1 LCD 1602A display
 * 1 stk. Arduino UNO R3 
 
-<br /><b>Kabelføring:</b><br />
-![](Assets/Images/wiering.png)
+<br /><b>Kabelføring for LCD1602A til Arduino med potentiometer:</b><br />
+![](Assets/Images/wiering1.png)
 
+<br /><b>Kabelføring for DHT11 til Arduino:</b><br />
+![](Assets/Images/wiering2.png)
