@@ -16,7 +16,7 @@ udover det, er det en god øvelse da LCD 1602 kræver en hel del ledsningsopsæt
 * 1 stk. Arduino UNO R3 
 
 <br /><b>Kabelføring for LCD1602A til Arduino med potentiometer:</b><br />
-![](Assets/Images/wiering1.png)
+![](Assets/Images/Wiering1.png)
 
 <br /><b>Kabelføring for DHT11 til Arduino:</b><br />
-![](Assets/Images/wiering2.png)
+![](Assets/Images/Wiering2.png)
